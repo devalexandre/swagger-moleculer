@@ -1,5 +1,5 @@
 {
-  "name": "thinktodo-swagger-moleculer",
+  "name": "swagger-moleculer",
   "version": "0.0.6",
   "description": "Unofficial Swagger service for Moleculer-web",
   "main": "index.js",
@@ -23,9 +23,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/thinktodo-dev/swagger-moleculer"
+    "url": "https://github.com/devalexandrev/swagger-moleculer"
   },
-  "author": "thinktodo",
+  "author": ["thinktodo","devalexandre]",
   "license": "MIT",
   "devDependencies": {
     "eslint": "5.0.1",
