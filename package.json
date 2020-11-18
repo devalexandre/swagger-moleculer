@@ -25,7 +25,7 @@
     "type": "git",
     "url": "https://github.com/devalexandrev/swagger-moleculer"
   },
-  "author": ["thinktodo","devalexandre]",
+  "author": ["thinktodo","devalexandre"],
   "license": "MIT",
   "devDependencies": {
     "eslint": "5.0.1",
